@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hai,<br>I'm Jose Prakash<br>I'm a Hybrid App Developer<br>
+<h1>I'M Jose Prakash</h1>
 
 
 ## 🌐 Socials:
