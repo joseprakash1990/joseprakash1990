@@ -1,58 +1,89 @@
-## 💫 About Me  
-Hey there! I'm **Jose Prakash** 😄  
-A passionate **Mobile App Developer** who loves building smooth, scalable, and user-friendly apps with modern technologies.  
-I enjoy turning creative ideas into real-world digital experiences 🚀  
+<h1 align="center">Hi 👋, I'm Jose Prakash</h1>
+<h3 align="center">React Native Mobile App Developer | TypeScript | Firebase</h3>
 
----
-
-## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://behance.net/JosePrakash"><img src="https://skillicons.dev/icons?i=behance" height="35" alt="Behance"/></a>
-  <a href="https://discord.gg/JosePrakash"><img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord"/></a>
-  <a href="https://facebook.com/JosePrakash"><img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/></a>
-  <a href="https://instagram.com/JosePrakash"><img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/JosePrakash"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@JosePrakash"><img src="https://skillicons.dev/icons?i=medium" height="35" alt="Medium"/></a>
-  <a href="https://pinterest.com/JosePrakash"><img src="https://skillicons.dev/icons?i=pinterest" height="35" alt="Pinterest"/></a>
-  <a href="https://reddit.com/user/JosePrakash"><img src="https://skillicons.dev/icons?i=reddit" height="35" alt="Reddit"/></a>
-  <a href="https://stackoverflow.com/users/JosePrakash"><img src="https://skillicons.dev/icons?i=stackoverflow" height="35" alt="Stack Overflow"/></a>
-  <a href="https://tiktok.com/@JosePrakash"><img src="https://skillicons.dev/icons?i=tiktok" height="35" alt="TikTok"/></a>
-  <a href="https://twitch.tv/JosePrakash"><img src="https://skillicons.dev/icons?i=twitch" height="35" alt="Twitch"/></a>
-  <a href="https://twitter.com/JosePrakash"><img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter"/></a>
-  <a href="https://youtube.com/c/JosePrakash"><img src="https://skillicons.dev/icons?i=youtube" height="35" alt="YouTube"/></a>
+  Building scalable, high-performance mobile applications with modern technologies.
 </p>
 
 ---
 
-## 💻 Tech Stack  
+## 🚀 About Me
+
+- 📱 Mobile App Developer specializing in **React Native**
+- ⚛️ Strong experience with **TypeScript, React, Redux & React Navigation**
+- 🔥 Working with **Firebase, REST APIs, Push Notifications & Authentication**
+- 🎨 Passionate about building clean UI/UX experiences
+- 🧩 Focused on performance optimisation and scalable architecture
+- 🌱 Currently exploring AI-powered mobile experiences
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,kotlin,react,reactnative,redux,flutter,laravel,mysql,mongodb,firebase,aws,azure,heroku,bootstrap,sass,postman,gradle,git,jira,trello" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JosePrakash&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosePrakash&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePrakash&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosePrakash&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePrakash&layout=compact&theme=radical" height="165" />
+## 🏆 Highlights
+
+- 🚀 Released production mobile applications to App Store & Play Store
+- 📱 Built scalable React Native applications
+- 🔔 Integrated Push Notifications, Deep Linking & Analytics
+- 💳 Developed secure payment and transaction workflows
+- 🎨 Implemented modern mobile UI/UX systems
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/JosePrakash">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/JosePrakash">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://instagram.com/JosePrakash">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
 </p>
 
 ---
 
-## ✍️ Dev Quote of the Day  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <i>"Great mobile experiences are built with clean code, thoughtful design, and attention to detail."</i>
 </p>
-
----
-
-## 😂 Random Dev Meme  
-<p align="center">
-  <a href="https://programmerhumor.io" target="_blank">
-    <img src="https://i.imgur.com/WxJpL3T.gif" width="400" alt="Funny Dev Meme"/>
-  </a>
-  <br/>
-  <sub>Click the image for more memes 😆</sub>
-</p>
-
----
